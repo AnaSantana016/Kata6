@@ -1,4 +1,4 @@
-package blockshifter.swing;
+package blockshifter.apps.swing;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

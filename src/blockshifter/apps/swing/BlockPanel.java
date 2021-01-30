@@ -1,4 +1,4 @@
-package blockshifter.swing;
+package blockshifter.apps.swing;
 
 import javax.swing.JPanel;
 import java.awt.Color;
