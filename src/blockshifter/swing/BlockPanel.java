@@ -1,10 +1,10 @@
-package swing;
+package blockshifter.swing;
 
 import javax.swing.JPanel;
 import java.awt.Color;
 import java.awt.Graphics;
-import model.Block;
-import view.BlockDisplay;
+import blockshifter.model.Block;
+import blockshifter.view.BlockDisplay;
 
 public class BlockPanel extends JPanel implements BlockDisplay{
     private static final int SIZE = 100;

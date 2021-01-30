@@ -1,6 +1,6 @@
-package control;
+package blockshifter.control;
 
-import model.Block;
+import blockshifter.model.Block;
 
 public class DownCommand implements Command {
     private final Block block;

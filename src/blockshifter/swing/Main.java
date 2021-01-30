@@ -1,4 +1,4 @@
-package swing;
+package blockshifter.swing;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -7,13 +7,13 @@ import javax.swing.JMenuBar;
 import javax.swing.JPanel;
 import javax.swing.JButton;
 import javax.swing.JFrame;
-import model.Block;
-import view.BlockDisplay;
-import control.Command;
-import control.DownCommand;
-import control.LeftCommand;
-import control.RightCommand;
-import control.UpCommand;
+import blockshifter.model.Block;
+import blockshifter.view.BlockDisplay;
+import blockshifter.control.Command;
+import blockshifter.control.DownCommand;
+import blockshifter.control.LeftCommand;
+import blockshifter.control.RightCommand;
+import blockshifter.control.UpCommand;
 import java.util.Map;
 import java.util.HashMap;
 
